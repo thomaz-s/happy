@@ -21,3 +21,5 @@ Listagem de orfanatos (função index):
 Retornar apenas um orfanato (função show):
 
 ![Mostrar orfanato](https://raw.githubusercontent.com/thomaz-s/happy/master/.github/mostrar_orfanato.png)
+
+As informações usadas no campo "about" e "instructions" sobre o [Lar Amigos de Jesus](https://www.laramigosdejesus.org.br/) e [Casa São Francisco](https://comshalom.org/casa-sao-francisco-tambem-pode-ser-seu-lar/) foram tiradas das páginas de cada instituição, mas o horário de funcionamento está apenas como exemplo, assim como as coordenadas são aproximadas e foram obtidas com a ajuda do Google Maps.
